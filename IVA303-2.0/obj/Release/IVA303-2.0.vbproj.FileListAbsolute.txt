@@ -1,0 +1,127 @@
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\IVA303-2.0.exe.config
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\IVA303-2.0.exe
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\IVA303-2.0.pdb
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\IVA303-2.0.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\itextsharp.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Calculate.Base.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Core.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Data.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.DataSource.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Grid.Base.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Grid.Windows.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.GridCommon.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Licensing.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SfDataGrid.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SfInput.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SfListView.WinForms.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Shared.Base.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Shared.Windows.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SpellChecker.Base.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Tools.Base.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Tools.Windows.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\itextsharp.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Calculate.Base.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Core.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Data.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.DataSource.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Grid.Base.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Grid.Windows.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.GridCommon.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SfDataGrid.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SfInput.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SfListView.WinForms.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Shared.Base.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Shared.Windows.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.SpellChecker.Base.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Tools.Base.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Tools.Windows.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Syncfusion.Grid.Windows.XmlSerializers.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\Interop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\bin\Release\AxInterop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\Interop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\AxInterop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.ResolveComReference.cache
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.mAlta.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.AltaCliente.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.AltaEmpresa.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Analisis.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Comunidades.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Cruce.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Administradores.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Alta.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_AltaAdministrador.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_AltaEmpresa.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Analisis.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Clientes.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Empresas.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Empresas.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Llamada.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Main.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.mClientes.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Envios.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Inicio.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303_2._0.Resources.resources
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.GenerateResource.cache
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.CoreCompileInputs.cache
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.CopyComplete
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.exe
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.xml
+\\HYBRIS\Unidad IVA303\Software integral de desarrollo propio\IVA303-2.0\IVA303-2.0\obj\Release\IVA303-2.0.pdb
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\WinSCP.exe
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\IVA303-2.0.exe.config
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\IVA303-2.0.exe.manifest
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\IVA303-2.0.application
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\IVA303-2.0.exe
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\IVA303-2.0.pdb
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\IVA303-2.0.xml
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\aa\IVA303-2.0.resources.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\itextsharp.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\MySql.Data.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\WinSCPnet.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\itextsharp.xml
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\Interop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\AxInterop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.vbprojAssemblyReference.cache
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\Interop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\AxInterop.AcroPDFLib.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.ResolveComReference.cache
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.mAlta.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.AltaCliente.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.AltaEmpresa.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Analisis.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.CambiarTipoDoc.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Certificacion3.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Comunidades.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Clientes.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.CRM.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Cruce.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Administradores.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Alta.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_AltaAdministrador.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_AltaEmpresa.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Analisis.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Clientes.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.C_Empresas.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Empresas.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.InputIDs.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.LogIn.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Main.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.mClientes.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Envios.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Resources.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.NuevaActividad.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303_2._0.Analisis.aa.resources
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.GenerateResource.cache
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.CoreCompileInputs.cache
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\aa\IVA303-2.0.resources.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.exe.manifest
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.application
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.vbproj.CopyComplete
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.exe
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.xml
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\IVA303-2.0.pdb
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+\\HYBRIS\Unidad IVA303\IVA303-3.0\IVA303-2.0\obj\Release\Interop.Illustrator.dll

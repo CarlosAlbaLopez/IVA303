@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B55DA8B-FE5D-4BA4-9574-C9C3BD5155AF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IVA303_2._0.My.MyApplication</StartupObject>
+    <RootNamespace>IVA303_2._0</RootNamespace>
+    <AssemblyName>IVA303-2.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>C:\303soft\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\sshfs\root%40192.168.0.178\certificado\</UpdateUrl>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>48</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IVA303-2.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IVA303-2.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F048DC1E1973056B91F3616035E30843ED0811EA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>IVA303-2.0_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\Downloads\metrof\thielj-MetroFramework-fb0d0c3.tar\thielj-MetroFramework-fb0d0c3\MetroFramework\obj\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WinSCPnet, Version=1.5.7.9125, Culture=neutral, PublicKeyToken=2271ec4a3c56d0bf, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinSCP.5.13.7\lib\net\WinSCPnet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alta.Designer.vb">
+      <DependentUpon>Alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaCliente.Designer.vb">
+      <DependentUpon>AltaCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AltaCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltaEmpresa.Designer.vb">
+      <DependentUpon>AltaEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AltaEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analisis.Designer.vb">
+      <DependentUpon>Analisis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Analisis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AñadirContacto.Designer.vb">
+      <DependentUpon>AñadirContacto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AñadirContacto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarTipoDoc.Designer.vb">
+      <DependentUpon>CambiarTipoDoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarTipoDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Certificacion3.Designer.vb">
+      <DependentUpon>Certificacion3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Certificacion3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CCPP\Comunidades.Designer.vb">
+      <DependentUpon>Comunidades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\Comunidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRM.Designer.vb">
+      <DependentUpon>CRM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CRM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cruce.Designer.vb">
+      <DependentUpon>Cruce.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cruce.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CCPP\C_Administradores.Designer.vb">
+      <DependentUpon>C_Administradores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_Administradores.vb" />
+    <Compile Include="CCPP\C_Alta.Designer.vb">
+      <DependentUpon>C_Alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_Alta.vb" />
+    <Compile Include="CCPP\C_AltaAdministrador.Designer.vb">
+      <DependentUpon>C_AltaAdministrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_AltaAdministrador.vb" />
+    <Compile Include="CCPP\C_AltaEmpresa.Designer.vb">
+      <DependentUpon>C_AltaEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_AltaEmpresa.vb" />
+    <Compile Include="CCPP\C_Analisis.Designer.vb">
+      <DependentUpon>C_Analisis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_Analisis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CCPP\C_Clientes.Designer.vb">
+      <DependentUpon>C_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CCPP\C_Empresas.Designer.vb">
+      <DependentUpon>C_Empresas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CCPP\C_Empresas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresas.Designer.vb">
+      <DependentUpon>Empresas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Empresas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputIDs.Designer.vb">
+      <DependentUpon>InputIDs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InputIDs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fileinfo.vb" />
+    <Compile Include="ModificarActividad.Designer.vb">
+      <DependentUpon>ModificarActividad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarActividad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarContacto.Designer.vb">
+      <DependentUpon>ModificarContacto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarContacto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AltaEmpresas.Designer.vb">
+      <DependentUpon>AltaEmpresas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AltaEmpresas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NuevaActividad.Designer.vb">
+      <DependentUpon>NuevaActividad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaActividad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resizer.vb" />
+    <Compile Include="SendEmails.Designer.vb">
+      <DependentUpon>SendEmails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SendEmails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Alta.resx">
+      <DependentUpon>Alta.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaCliente.resx">
+      <DependentUpon>AltaCliente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltaEmpresa.resx">
+      <DependentUpon>AltaEmpresa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Analisis.aa.resx">
+      <DependentUpon>Analisis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Analisis.resx">
+      <DependentUpon>Analisis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AñadirContacto.resx">
+      <DependentUpon>AñadirContacto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambiarTipoDoc.resx">
+      <DependentUpon>CambiarTipoDoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Certificacion3.resx">
+      <DependentUpon>Certificacion3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\Comunidades.resx">
+      <DependentUpon>Comunidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRM.resx">
+      <DependentUpon>CRM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cruce.resx">
+      <DependentUpon>Cruce.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_Administradores.resx">
+      <DependentUpon>C_Administradores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_Alta.resx">
+      <DependentUpon>C_Alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_AltaAdministrador.resx">
+      <DependentUpon>C_AltaAdministrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_AltaEmpresa.resx">
+      <DependentUpon>C_AltaEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_Analisis.resx">
+      <DependentUpon>C_Analisis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_Clientes.resx">
+      <DependentUpon>C_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CCPP\C_Empresas.resx">
+      <DependentUpon>C_Empresas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empresas.resx">
+      <DependentUpon>Empresas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputIDs.resx">
+      <DependentUpon>InputIDs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarActividad.resx">
+      <DependentUpon>ModificarActividad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarContacto.resx">
+      <DependentUpon>ModificarContacto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaActividad.resx">
+      <DependentUpon>NuevaActividad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendEmails.resx">
+      <DependentUpon>SendEmails.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IVA303-2.0_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\IVA303_2._0.iva303DataSet1TableAdapters.EMPRESASTableAdapter.datasource" />
+    <None Include="My Project\DataSources\IVA303_2._0.iva303DataSet1TableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="My Project\DataSources\IVA303_2._0.iva303DataSet1TableAdapters.TableAdapterManager.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\logo_iva303.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_iva3031.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_iva303_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teclado-qwerty-655x368.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simbolo-telefono-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Illustrator">
+      <Guid>{B034BABE-6480-4410-9527-7D0BCC9E0A40}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dddd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green-play-button-icon-17897.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOCUM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="..\packages\WinSCP.5.13.7\build\WinSCP.targets" Condition="Exists('..\packages\WinSCP.5.13.7\build\WinSCP.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\WinSCP.5.13.7\build\WinSCP.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\WinSCP.5.13.7\build\WinSCP.targets'))" />
+  </Target>
+</Project>
